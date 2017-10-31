@@ -6,6 +6,8 @@ void sum(int a,int b)
 }
 int main()
 {
+	printf("The answer is");
 	printf("Sum");
+	
 	sum(2,3);
 }
